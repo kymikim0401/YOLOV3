@@ -5,7 +5,7 @@ Tried simulating real-time object detection with YOLOv3 architecture followed by
 
 YOLOv3 object detector was pretrained with coco dataset, and you can download these files in the following link: https://pjreddie.com/darknet/yolo/
 
-Below video is the output video file of YOLOv3 model with one of my videos recored with iphone.
+Below video is the output video of yolo_video.py with one of my videos recored with iphone.
 
 https://user-images.githubusercontent.com/82307352/159221817-5bd791f4-49d8-4d2b-a051-6c9f7edc116f.mp4
 
