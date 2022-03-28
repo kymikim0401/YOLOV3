@@ -1,7 +1,7 @@
 # YOLOv3 
 ## Implement real-time object detection with YOLOv3 using OpenCV
 
-Tried simulating real-time object detection with YOLOv3 architecture followed by OpenCV tutorials
+Tried simulating real-time object detection with YOLOv3 architecture with the help from OpenCV tutorials
 
 YOLOv3 object detector was pretrained with coco dataset, and you can download these files in the following link: https://pjreddie.com/darknet/yolo/
 
